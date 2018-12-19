@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="4.5.0" />
+    <PackageReference Include="Castle.Core" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SanFu.Commons\SanFu.Commons.csproj" />
+    <ProjectReference Include="..\SanFu.IRepository\SanFu.IRepository.csproj" />
+    <ProjectReference Include="..\SanFu.IService\SanFu.IService.csproj" />
+    <ProjectReference Include="..\SanFu.Repository\SanFu.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\bin\Debug\netstandard2.0\SanFu.Entities.deps.json
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\bin\Debug\netstandard2.0\SanFu.Entities.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\bin\Debug\netstandard2.0\SanFu.Entities.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\bin\Debug\netstandard2.0\NetCore.Framework.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\bin\Debug\netstandard2.0\NetCore.Framework.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\obj\Debug\netstandard2.0\SanFu.Entities.csprojAssemblyReference.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\obj\Debug\netstandard2.0\SanFu.Entities.csproj.CoreCompileInputs.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\obj\Debug\netstandard2.0\SanFu.Entities.AssemblyInfoInputs.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\obj\Debug\netstandard2.0\SanFu.Entities.AssemblyInfo.cs
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\obj\Debug\netstandard2.0\SanFu.Entities.csproj.CopyComplete
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\obj\Debug\netstandard2.0\SanFu.Entities.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.Entities\obj\Debug\netstandard2.0\SanFu.Entities.pdb

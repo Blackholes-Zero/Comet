@@ -1,0 +1,10 @@
+﻿{
+  "modules": [
+    {
+      "type": "SanFu.Service.ServiceModule, SanFu.Service"
+    },
+    {
+      "type": "SanFu.Repository.RepositoryModule, SanFu.Repository"
+    }
+  ]
+}

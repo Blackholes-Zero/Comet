@@ -1,0 +1,16 @@
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\SanFu.ViewModels.deps.json
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\SanFu.ViewModels.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\SanFu.ViewModels.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\NetCore.Framework.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\NetCore.Framework.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\obj\Debug\netstandard2.0\SanFu.ViewModels.csprojAssemblyReference.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\obj\Debug\netstandard2.0\SanFu.ViewModels.csproj.CoreCompileInputs.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\obj\Debug\netstandard2.0\SanFu.ViewModels.AssemblyInfoInputs.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\obj\Debug\netstandard2.0\SanFu.ViewModels.AssemblyInfo.cs
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\obj\Debug\netstandard2.0\SanFu.ViewModels.csproj.CopyComplete
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\obj\Debug\netstandard2.0\SanFu.ViewModels.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\obj\Debug\netstandard2.0\SanFu.ViewModels.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.ViewModels\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Features.xml

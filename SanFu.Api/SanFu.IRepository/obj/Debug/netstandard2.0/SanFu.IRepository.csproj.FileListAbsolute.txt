@@ -1,0 +1,16 @@
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\SanFu.IRepository.deps.json
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\SanFu.IRepository.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\SanFu.IRepository.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\NetCore.Framework.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\SanFu.Entities.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\SanFu.Entities.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\NetCore.Framework.pdb
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\obj\Debug\netstandard2.0\SanFu.IRepository.csprojAssemblyReference.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\obj\Debug\netstandard2.0\SanFu.IRepository.csproj.CoreCompileInputs.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\obj\Debug\netstandard2.0\SanFu.IRepository.AssemblyInfoInputs.cache
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\obj\Debug\netstandard2.0\SanFu.IRepository.AssemblyInfo.cs
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\obj\Debug\netstandard2.0\SanFu.IRepository.csproj.CopyComplete
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\obj\Debug\netstandard2.0\SanFu.IRepository.dll
+E:\Blackholes-Zero\SanFu.Api\SanFu.IRepository\obj\Debug\netstandard2.0\SanFu.IRepository.pdb
