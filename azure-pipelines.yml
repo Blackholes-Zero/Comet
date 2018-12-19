@@ -11,7 +11,7 @@ pool:
   vmImage: 'vs2017-win2016' # 使用azure devops提供的 vs2017+win2016 环境
 
 variables:
-  hostBuildPath: '.\\SanFu.Api\\SanFu.Api.csproj' # 发布的项目的csproj
+  hostBuildPath: '.\\SanFu.Api\\SanFu.PassPort\\SanFu.PassPort.csproj' # 发布的项目的csproj
   dotnetConfig: ' -c Release -f netcoreapp2.1 -o $(Build.ArtifactStagingDirectory)' # dotnet发布的命令
 
 steps:
