@@ -7654,11 +7654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.Repository\\SanFu.Repository.csproj",
+      "projectUniqueName": "E:\\Comet_Api\\SanFu.Api\\SanFu.Repository\\SanFu.Repository.csproj",
       "projectName": "SanFu.Repository",
-      "projectPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.Repository\\SanFu.Repository.csproj",
+      "projectPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.Repository\\SanFu.Repository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.Repository\\obj\\",
+      "outputPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7677,14 +7677,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.Commons\\SanFu.Commons.csproj": {
-              "projectPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.Commons\\SanFu.Commons.csproj"
+            "E:\\Comet_Api\\SanFu.Api\\SanFu.Commons\\SanFu.Commons.csproj": {
+              "projectPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.Commons\\SanFu.Commons.csproj"
             },
-            "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.DataSource\\SanFu.DataSource.csproj": {
-              "projectPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.DataSource\\SanFu.DataSource.csproj"
+            "E:\\Comet_Api\\SanFu.Api\\SanFu.DataSource\\SanFu.DataSource.csproj": {
+              "projectPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.DataSource\\SanFu.DataSource.csproj"
             },
-            "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.IRepository\\SanFu.IRepository.csproj": {
-              "projectPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.IRepository\\SanFu.IRepository.csproj"
+            "E:\\Comet_Api\\SanFu.Api\\SanFu.IRepository\\SanFu.IRepository.csproj": {
+              "projectPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.IRepository\\SanFu.IRepository.csproj"
             }
           }
         }

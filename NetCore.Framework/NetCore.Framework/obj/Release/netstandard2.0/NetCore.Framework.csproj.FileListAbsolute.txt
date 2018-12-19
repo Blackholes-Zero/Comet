@@ -1,0 +1,9 @@
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\bin\Release\netstandard2.0\NetCore.Framework.deps.json
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\bin\Release\netstandard2.0\NetCore.Framework.dll
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\bin\Release\netstandard2.0\NetCore.Framework.pdb
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\obj\Release\netstandard2.0\NetCore.Framework.csproj.CoreCompileInputs.cache
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\obj\Release\netstandard2.0\NetCore.Framework.AssemblyInfoInputs.cache
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\obj\Release\netstandard2.0\NetCore.Framework.AssemblyInfo.cs
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\obj\Release\netstandard2.0\NetCore.Framework.dll
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\obj\Release\netstandard2.0\NetCore.Framework.pdb
+E:\Blackholes-Zero\NetCore.Framework\NetCore.Framework\obj\Release\netstandard2.0\NetCore.Framework.csprojAssemblyReference.cache

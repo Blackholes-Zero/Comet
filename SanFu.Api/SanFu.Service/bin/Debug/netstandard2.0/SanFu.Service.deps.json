@@ -1704,10 +1704,19 @@
       },
       "SanFu.ViewModels/1.0.0": {
         "dependencies": {
-          "NetCore.Framework": "1.0.0"
+          "NetCore.Framework": "1.0.0",
+          "Microsoft.AspNetCore.Http.Features": "2.1.1.0"
         },
         "runtime": {
           "SanFu.ViewModels.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features.Reference/2.1.1.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
+          }
         }
       }
     }
@@ -2714,6 +2723,11 @@
     },
     "SanFu.ViewModels/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Features.Reference/2.1.1.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

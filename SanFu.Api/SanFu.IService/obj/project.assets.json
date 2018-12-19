@@ -4697,11 +4697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.IService\\SanFu.IService.csproj",
+      "projectUniqueName": "E:\\Comet_Api\\SanFu.Api\\SanFu.IService\\SanFu.IService.csproj",
       "projectName": "SanFu.IService",
-      "projectPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.IService\\SanFu.IService.csproj",
+      "projectPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.IService\\SanFu.IService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.IService\\obj\\",
+      "outputPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.IService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4720,8 +4720,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.Entities\\SanFu.Entities.csproj": {
-              "projectPath": "E:\\Blackholes-Zero\\SanFu.Api\\SanFu.Entities\\SanFu.Entities.csproj"
+            "E:\\Comet_Api\\SanFu.Api\\SanFu.Entities\\SanFu.Entities.csproj": {
+              "projectPath": "E:\\Comet_Api\\SanFu.Api\\SanFu.Entities\\SanFu.Entities.csproj"
             }
           }
         }

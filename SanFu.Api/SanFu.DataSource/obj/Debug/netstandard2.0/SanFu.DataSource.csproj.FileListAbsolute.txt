@@ -12,3 +12,17 @@ E:\Blackholes-Zero\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.Dat
 E:\Blackholes-Zero\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.csproj.CopyComplete
 E:\Blackholes-Zero\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.dll
 E:\Blackholes-Zero\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.pdb
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.dll
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.pdb
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\bin\Debug\netstandard2.0\SanFu.DataSource.deps.json
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\bin\Debug\netstandard2.0\SanFu.DataSource.dll
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\bin\Debug\netstandard2.0\SanFu.DataSource.pdb
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\bin\Debug\netstandard2.0\NetCore.Framework.dll
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\bin\Debug\netstandard2.0\SanFu.Entities.dll
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\bin\Debug\netstandard2.0\SanFu.Entities.pdb
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\bin\Debug\netstandard2.0\NetCore.Framework.pdb
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.csprojAssemblyReference.cache
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.csproj.CoreCompileInputs.cache
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.AssemblyInfoInputs.cache
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.AssemblyInfo.cs
+E:\Comet_Api\SanFu.Api\SanFu.DataSource\obj\Debug\netstandard2.0\SanFu.DataSource.csproj.CopyComplete
